@@ -1,0 +1,1 @@
+Se crea el fichero rebase2.txt en la rama usuario1
